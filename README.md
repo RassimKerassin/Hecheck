@@ -4,8 +4,7 @@
 # Download
 ```
 git clone https://github.com/RassimKerassin/Hecheck.git
-cd Hecheck
-chmod +x Hecheck.py
+cd Hecheck;chmod +x Hecheck.py;mv Hecheck /usr/local/bin
 ```
 ---
 # Usage
