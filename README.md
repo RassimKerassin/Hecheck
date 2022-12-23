@@ -9,5 +9,5 @@ cd Hecheck;chmod +x Hecheck.py;mv Hecheck /usr/local/bin
 ---
 # Usage
 ```
-python3 Hecheck.py -list list.txt
+Hecheck -list list.txt
 ```
